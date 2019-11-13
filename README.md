@@ -1,1 +1,1 @@
-# CS_303E Assignments
+# CS_303E

@@ -1,0 +1,9 @@
+armidillo
+monkey
+dog
+elephant
+alligator
+cat
+spider
+ant
+eagle
